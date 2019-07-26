@@ -1,0 +1,67 @@
+.Badges__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Badges__hero > .Badges__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Badges__container {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto 2em;
+  padding: 0 1rem;
+}
+
+.Badges_conf-logo {
+  margin-bottom: 2rem;
+}
+
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.Badge__box {
+  border-radius: 9px;
+  margin: 10px 10px 0;
+  border: transparent 0.5px;
+  box-shadow: 0 0 94px 10px rgb(218, 211, 211);
+}
+
+.Badge__fix {
+  padding: 10px;
+  display: inline-flex;
+}
+
+.img {
+  padding: 1.1em;
+}
+
+.inline {
+  display: inline;
+}
+
+.icon-twitter:before {
+  content: "\e900";
+  color: #1da1f2;
+}
+
+.p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.centerLabel {
+  display: flex;
+  justify-content: center;
+}

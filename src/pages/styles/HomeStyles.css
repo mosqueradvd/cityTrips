@@ -1,0 +1,38 @@
+.Home {
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background: url("../../images/stars.svg"), #000;
+  background-repeat: repeat;
+
+  display: grid;
+  grid-template: 1fr / 100px300px1fr 100px;
+  grid-template-areas: ". text image .";
+  align-items: center;
+  justify-items: center;
+
+  color: #fff;
+}
+
+.col-img {
+  height: 410px;
+  grid-area: image;
+}
+
+.col-img img {
+  width: 100%;
+}
+
+.col-text {
+  height: 350px;
+  grid-area: text;
+}
+
+.col-text img {
+  margin-bottom: 20px;
+  height: 200px;
+width: 390px;
+}
+
+.blur {
+  box-shadow: 0 10px 20px -6px rgb(218, 211, 211);
+}
