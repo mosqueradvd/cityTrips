@@ -20,12 +20,22 @@
 
 import React from "react"; // --> Análogo a create elements //Siempre importar React jsx
 import ReactDOM from "react-dom"; // --> Análogo a AppendChild
+import { HashRouter, Route, Link, Switch } from "react-router-dom";
+
+import Home from "./pages/Home";
 
 import "bootstrap/dist/css/bootstrap.css";
 
 import "./global.css";
 import App from "./components/App";
 
+export default () => {
+  <HashRouter>
+    <Switch>
+      <Route exact path="/cityTrips" component={Home} />
+    </Switch>
+  </HashRouter>;
+};
 // const element = React.createElement(
 //   "div",
 //   {},
