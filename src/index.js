@@ -32,7 +32,7 @@ import App from "./components/App";
 export default () => {
   <HashRouter>
     <Switch>
-      <Route exact path="/cityTrips" component={Home} />
+      <Route exact path="https://mosqueradvd.github.io/" component={Home} />
     </Switch>
   </HashRouter>;
 };
