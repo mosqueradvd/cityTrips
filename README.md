@@ -6,7 +6,7 @@
 
 ## **Single Page App made in React.js**
 
-First attempt to create a website with React.
+This is my first attempt to create a website with React.js I've created this SPA to showcase my growing role as a Front Dev.
 
 This app was created by using **API calls**:
 
