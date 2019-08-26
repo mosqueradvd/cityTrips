@@ -4,20 +4,31 @@
 
 
 
-## **Single Page App made in React.js**
+## **Single Page App made in React.js** ⚛️ 
 
-This is my first attempt to create a website with React.js I've created this SPA to showcase my growing role as a Front Dev.
+This is my first attempt to create a website with React.js. I've created this SPA to showcase my growing role as a Front Dev.
 
-This app was created by using **API calls**:
+## Features
 
-![a](https://i.imgur.com/TwZaRXg.png "a")
+- Here are some of the things I used to build this app 🔥
+  - API calls
+  - Custom Hooks
+  - & component life cycles
+- React Front-end 🤘 
+  - Stylized w/ basic CSS
 
-#### **& component life cycles:**
+## Screenshots
 
-![CompDidMount](https://i.imgur.com/ZWoVZCr.png "CompDidMount")Component Did Mount
+![](https://i.imgur.com/VnSYxbf.png "a")
+
+![](https://i.imgur.com/TwZaRXg.png "a")
 
 
-![Comp](https://i.imgur.com/XDREhx9.png "Comp")]  Component Will Unmount
 
-![c](https://i.imgur.com/0MZPfBX.png "c")Component Did Update
+![](https://i.imgur.com/ZWoVZCr.png "CompDidMount")
+
+
+![](https://i.imgur.com/OOMQBJx.png "Comp")
+
+![](https://i.imgur.com/tSoLKAy.png "c")
 
