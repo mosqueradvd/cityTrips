@@ -19,14 +19,10 @@ This is my first attempt to create a website with React.js. I've created this SP
 
 ## Screenshots
 
+
 ![](https://i.imgur.com/VnSYxbf.png "a")
 
 ![](https://i.imgur.com/TwZaRXg.png "a")
-
-
-
-![](https://i.imgur.com/ZWoVZCr.png "CompDidMount")
-
 
 ![](https://i.imgur.com/OOMQBJx.png "Comp")
 
