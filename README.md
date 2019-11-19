@@ -1,8 +1,6 @@
-
-![React.js](https://i.imgur.com/YMrchDq.png "React.js")
-
-
-
+<p align="center">
+<img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/react-logo.png">
+</p>
 
 ## **Single Page App made in React.js** ⚛️ 
 
