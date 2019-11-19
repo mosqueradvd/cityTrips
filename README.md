@@ -23,6 +23,13 @@ This is my first attempt to create a website with React.js. I've created this SP
 <img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/proyecto-reactjs.gif">
 </p>
 
-![](https://i.imgur.com/TwZaRXg.png "a")
+### API Overview
+
+This is a kind of library that help us make API calls. It does this through the server that runs when we first write **npm start**.
+These API calls are made in https://localhost:3001
+
+<p align="center">
+<img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/callAPI.png">
+</p>
 
 
