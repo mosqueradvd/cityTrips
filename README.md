@@ -18,11 +18,11 @@ This is my first attempt to create a website with React.js. I've created this SP
 ## Screenshots
 
 
-![](https://i.imgur.com/VnSYxbf.png "a")
+
+<p align="center">
+<img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/proyecto-reactjs.gif">
+</p>
 
 ![](https://i.imgur.com/TwZaRXg.png "a")
 
-![](https://i.imgur.com/OOMQBJx.png "Comp")
-
-![](https://i.imgur.com/tSoLKAy.png "c")
 
