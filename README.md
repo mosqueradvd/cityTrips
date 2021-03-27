@@ -17,7 +17,9 @@ This is my first attempt to create a website with React.js. I've created this SP
 
 ## Screenshots
 
-
+<p align="center">
+<img align="center" style="margin: 0 auto;" src="https://i.imgur.com/7pUekTv.png">
+</p>
 
 <p align="center">
 <img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/proyecto-reactjs.gif">
@@ -31,5 +33,6 @@ These API calls are made in https://localhost:3001
 <p align="center">
 <img align="center" style="margin: 0 auto;" src="https://github.com/mosqueradvd/cityTrips/blob/master/src/images/callAPI.png">
 </p>
+
 
 
